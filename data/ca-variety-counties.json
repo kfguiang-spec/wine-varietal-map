@@ -1,0 +1,5773 @@
+{
+  "source": {
+    "citation": "USDA NASS California Field Office. California Grape Acreage Report, 2025 Crop (Excel tables 6\u20137: white/red wine grapes by variety and county).",
+    "url": "https://www.nass.usda.gov/Statistics_by_State/California/Publications/Specialty_and_Other_Releases/Grapes/Acreage/",
+    "file": "2025GrapeAcreageExcel.zip \u2192 202604gabtb06.xlsx (white), 202604gabtb07.xlsx (red)",
+    "year": 2025,
+    "unit": "acres",
+    "metric": "Standing acreage total for 2025 (bearing + nonbearing as reported in Total column)."
+  },
+  "extracted_at": "2026-09-19T20:48:14.116526Z",
+  "varieties": [
+    {
+      "id": "barbera",
+      "usda_name": "BARBERA",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 3773.0,
+      "state_total_acres_prior": 4128.0,
+      "counties": [
+        {
+          "county": "Fresno",
+          "acres": 2063.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Madera",
+          "acres": 806.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Amador",
+          "acres": 221.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 171.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 109.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Kings",
+          "acres": 86.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 68.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 51.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 44.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Lake",
+          "acres": 18.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 18.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Monterey",
+          "acres": 15.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 14.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Riverside",
+          "acres": 14.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 12.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Merced",
+          "acres": 10.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Placer",
+          "acres": 9.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Alameda",
+          "acres": 8.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Yolo",
+          "acres": 7.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Kern",
+          "acres": 5.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 4.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Butte",
+          "acres": 3.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Napa",
+          "acres": 3.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "San Diego",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Benito",
+          "acres": 2.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 2.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 1.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Sutter",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Tulare",
+          "acres": 0.0,
+          "region_id": "central-valley"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 2972.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 354.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 189.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 68.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 51.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 44.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 18.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 18.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 17.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 13.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 13.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 7.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 5.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 3.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "cabernet-franc",
+      "usda_name": "CABERNET FRANC",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 3501.0,
+      "state_total_acres_prior": 3536.0,
+      "counties": [
+        {
+          "county": "Napa",
+          "acres": 1305.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 621.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 573.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 138.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Lake",
+          "acres": 117.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 99.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Monterey",
+          "acres": 94.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 81.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 75.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Alameda",
+          "acres": 51.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Nevada",
+          "acres": 48.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 43.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Riverside",
+          "acres": 40.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 39.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "San Diego",
+          "acres": 29.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 19.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Benito",
+          "acres": 19.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Solano",
+          "acres": 19.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Placer",
+          "acres": 13.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Madera",
+          "acres": 12.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 12.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Amador",
+          "acres": 10.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Yolo",
+          "acres": 9.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 7.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Kern",
+          "acres": 5.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Fresno",
+          "acres": 4.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 4.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 4.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Butte",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Yuba",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "napa",
+          "acres": 1305.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 621.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 573.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 219.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 169.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 117.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 113.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 102.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 100.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 75.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 39.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 33.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 28.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 5.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 4.0
+        }
+      ]
+    },
+    {
+      "id": "cabernet-sauvignon",
+      "usda_name": "CABERNET SAUVIGNON",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 90040.0,
+      "state_total_acres_prior": 94906.0,
+      "counties": [
+        {
+          "county": "Napa",
+          "acres": 22616.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 15273.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 12431.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 11046.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Lake",
+          "acres": 4834.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 4746.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Monterey",
+          "acres": 4124.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 3015.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Madera",
+          "acres": 2797.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 1826.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 985.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Fresno",
+          "acres": 878.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 876.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Yolo",
+          "acres": 726.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Alameda",
+          "acres": 704.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Solano",
+          "acres": 487.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Benito",
+          "acres": 375.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 344.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 310.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Tulare",
+          "acres": 282.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Amador",
+          "acres": 247.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Kern",
+          "acres": 244.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Riverside",
+          "acres": 199.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Diego",
+          "acres": 140.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Nevada",
+          "acres": 105.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Colusa",
+          "acres": 81.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 73.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 46.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 41.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Kings",
+          "acres": 38.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Butte",
+          "acres": 34.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 21.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 15.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Yuba",
+          "acres": 14.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 12.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Shasta",
+          "acres": 11.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Marin",
+          "acres": 7.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 7.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 6.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Tehama",
+          "acres": 6.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Glenn",
+          "acres": 4.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Placer",
+          "acres": 4.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 4.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Ventura",
+          "acres": 2.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Orange",
+          "acres": 1.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Sutter",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Trinity",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "napa",
+          "acres": 22616.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 15792.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 15273.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 12438.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 6941.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 4834.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 4499.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 3015.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 1213.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 1107.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 987.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 767.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 390.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 151.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 17.0
+        }
+      ]
+    },
+    {
+      "id": "carignane",
+      "usda_name": "CARIGNANE",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 1791.0,
+      "state_total_acres_prior": 1857.0,
+      "counties": [
+        {
+          "county": "Madera",
+          "acres": 843.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 315.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 266.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 158.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 60.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 57.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 19.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Fresno",
+          "acres": 16.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 13.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Diego",
+          "acres": 10.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 7.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Lake",
+          "acres": 6.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Napa",
+          "acres": 5.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 5.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 4.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Amador",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 2.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Monterey",
+          "acres": 1.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Yolo",
+          "acres": 1.0,
+          "region_id": "delta-yolo"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 861.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 315.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 271.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 158.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 83.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 57.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 14.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 10.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 7.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 6.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 5.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 5.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "chardonnay",
+      "usda_name": "CHARDONNAY",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 83262.0,
+      "state_total_acres_prior": 85840.0,
+      "counties": [
+        {
+          "county": "Sonoma",
+          "acres": 15176.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Monterey",
+          "acres": 15060.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 10727.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Napa",
+          "acres": 6049.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Yolo",
+          "acres": 5238.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 4503.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 4405.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 4170.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Madera",
+          "acres": 3496.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 3273.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 2580.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Fresno",
+          "acres": 2531.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 1141.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Kern",
+          "acres": 1140.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 851.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Benito",
+          "acres": 566.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Alameda",
+          "acres": 532.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Lake",
+          "acres": 516.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Tulare",
+          "acres": 257.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 189.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 180.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 141.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Colusa",
+          "acres": 102.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Riverside",
+          "acres": 98.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 97.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 69.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Nevada",
+          "acres": 38.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 38.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Marin",
+          "acres": 32.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Diego",
+          "acres": 21.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Trinity",
+          "acres": 20.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 11.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Amador",
+          "acres": 6.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 4.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Shasta",
+          "acres": 3.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Lassen",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Yuba",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "monterey",
+          "acres": 15626.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 15230.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 15208.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 11838.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 6089.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 6049.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 4405.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 4171.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 2580.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 1080.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 516.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 211.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 130.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 106.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 26.0
+        }
+      ]
+    },
+    {
+      "id": "chenin-blanc",
+      "usda_name": "CHENIN BLANC",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 4091.0,
+      "state_total_acres_prior": 4154.0,
+      "counties": [
+        {
+          "county": "Fresno",
+          "acres": 1509.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 606.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Yolo",
+          "acres": 514.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Madera",
+          "acres": 353.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 338.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Kings",
+          "acres": 150.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 150.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 114.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 96.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Kern",
+          "acres": 76.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 41.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 36.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Monterey",
+          "acres": 28.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Napa",
+          "acres": 26.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 21.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Amador",
+          "acres": 8.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 6.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Lake",
+          "acres": 6.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 4.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Benito",
+          "acres": 4.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Riverside",
+          "acres": 1.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 2238.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 944.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 628.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 96.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 41.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 36.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 32.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 26.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 21.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 18.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 6.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 4.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "colombard",
+      "usda_name": "FRENCH COLOMBARD",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 14823.0,
+      "state_total_acres_prior": 15290.0,
+      "counties": [
+        {
+          "county": "Fresno",
+          "acres": 7247.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Madera",
+          "acres": 4313.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Kern",
+          "acres": 1147.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Tulare",
+          "acres": 1008.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 345.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Kings",
+          "acres": 296.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 244.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Yolo",
+          "acres": 72.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 69.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 32.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 26.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 15.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Solano",
+          "acres": 8.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 1.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Shasta",
+          "acres": 0.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 14324.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 346.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 80.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 32.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 26.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 15.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 1.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "gewurztraminer",
+      "usda_name": "GEWURZTRAMINER",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 847.0,
+      "state_total_acres_prior": 1091.0,
+      "counties": [
+        {
+          "county": "Yolo",
+          "acres": 252.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Monterey",
+          "acres": 137.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 112.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 79.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 62.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 60.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 57.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Solano",
+          "acres": 25.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Napa",
+          "acres": 16.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Riverside",
+          "acres": 12.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Lake",
+          "acres": 11.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 10.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 6.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 5.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Trinity",
+          "acres": 3.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "delta-yolo",
+          "acres": 277.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 137.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 119.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 112.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 79.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 60.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 16.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 12.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 11.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 10.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 6.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 5.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 3.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "grenache-noir",
+      "usda_name": "GRENACHE",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 4187.0,
+      "state_total_acres_prior": 4345.0,
+      "counties": [
+        {
+          "county": "Madera",
+          "acres": 847.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 750.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Fresno",
+          "acres": 591.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 384.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Monterey",
+          "acres": 336.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 283.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 231.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 123.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Kern",
+          "acres": 79.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 72.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Napa",
+          "acres": 64.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Solano",
+          "acres": 50.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Kings",
+          "acres": 40.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 37.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Amador",
+          "acres": 34.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Lake",
+          "acres": 30.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 30.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 28.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Riverside",
+          "acres": 27.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Diego",
+          "acres": 22.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Tulare",
+          "acres": 22.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 21.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Benito",
+          "acres": 18.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Alameda",
+          "acres": 12.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 11.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 10.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Tehama",
+          "acres": 10.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Yolo",
+          "acres": 6.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Placer",
+          "acres": 5.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Ventura",
+          "acres": 3.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 2.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Nevada",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Butte",
+          "acres": 0.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 1609.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 750.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 387.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 354.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 283.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 268.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 125.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 123.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 64.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 63.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 63.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 56.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 30.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 11.0
+        }
+      ]
+    },
+    {
+      "id": "grenache-blanc",
+      "usda_name": "GRENACHE BLANC",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 620.0,
+      "state_total_acres_prior": 612.0,
+      "counties": [
+        {
+          "county": "Fresno",
+          "acres": 150.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 126.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Kings",
+          "acres": 123.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 49.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Monterey",
+          "acres": 43.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 34.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 21.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 20.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 17.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 15.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Napa",
+          "acres": 11.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "San Diego",
+          "acres": 4.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Amador",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Madera",
+          "acres": 2.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Riverside",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Benito",
+          "acres": 1.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Solano",
+          "acres": 1.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Sutter",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Alameda",
+          "acres": 0.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Merced",
+          "acres": 0.0,
+          "region_id": "central-valley"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 275.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 126.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 49.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 44.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 38.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 34.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 20.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 17.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 11.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 6.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 1.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 1.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "malbec",
+      "usda_name": "MALBEC",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 3947.0,
+      "state_total_acres_prior": 4162.0,
+      "counties": [
+        {
+          "county": "San Joaquin",
+          "acres": 760.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Napa",
+          "acres": 571.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Monterey",
+          "acres": 481.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 479.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 450.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 427.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Lake",
+          "acres": 196.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Yolo",
+          "acres": 100.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 74.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Amador",
+          "acres": 69.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 50.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 45.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Benito",
+          "acres": 41.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Madera",
+          "acres": 36.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 35.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 31.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Riverside",
+          "acres": 27.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 19.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Diego",
+          "acres": 15.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Alameda",
+          "acres": 7.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 7.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Shasta",
+          "acres": 6.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 5.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Butte",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Fresno",
+          "acres": 2.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Placer",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Sutter",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Kern",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 1239.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 571.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 522.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 450.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 427.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 196.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 131.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 124.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 74.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 74.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 51.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 45.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 31.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 11.0
+        }
+      ]
+    },
+    {
+      "id": "merlot",
+      "usda_name": "MERLOT",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 30628.0,
+      "state_total_acres_prior": 31924.0,
+      "counties": [
+        {
+          "county": "San Joaquin",
+          "acres": 6283.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Napa",
+          "acres": 3902.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 3647.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 2979.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 2842.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Monterey",
+          "acres": 2758.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Madera",
+          "acres": 2297.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 1279.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 1085.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Kern",
+          "acres": 461.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Fresno",
+          "acres": 369.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Yolo",
+          "acres": 347.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Alameda",
+          "acres": 293.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Lake",
+          "acres": 289.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 288.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 232.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Tulare",
+          "acres": 209.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Benito",
+          "acres": 188.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 165.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Kings",
+          "acres": 161.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 107.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 105.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Diego",
+          "acres": 67.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Riverside",
+          "acres": 61.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 53.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 46.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Nevada",
+          "acres": 27.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 19.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 18.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 15.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Trinity",
+          "acres": 8.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Shasta",
+          "acres": 7.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Amador",
+          "acres": 5.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Glenn",
+          "acres": 3.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Placer",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Tehama",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Ventura",
+          "acres": 2.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Yuba",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Sutter",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Marin",
+          "acres": 0.0,
+          "region_id": "sonoma"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 9262.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 5064.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 3902.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 3647.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 2946.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 2842.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 1085.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 460.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 454.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 289.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 255.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 234.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 148.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 28.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 15.0
+        }
+      ]
+    },
+    {
+      "id": "mourvedre",
+      "usda_name": "MOURVEDRE",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 994.0,
+      "state_total_acres_prior": 1013.0,
+      "counties": [
+        {
+          "county": "San Luis Obispo",
+          "acres": 321.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 186.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 123.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 74.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 67.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Amador",
+          "acres": 36.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Lake",
+          "acres": 25.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 21.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Napa",
+          "acres": 20.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Monterey",
+          "acres": 19.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 15.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Riverside",
+          "acres": 12.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Solano",
+          "acres": 12.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Alameda",
+          "acres": 11.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Diego",
+          "acres": 9.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Placer",
+          "acres": 8.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Yolo",
+          "acres": 8.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 7.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Benito",
+          "acres": 6.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 4.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Madera",
+          "acres": 2.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 2.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Ventura",
+          "acres": 2.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Fresno",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Nevada",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Butte",
+          "acres": 0.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 0.0,
+          "region_id": "southern-california"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "paso-robles",
+          "acres": 321.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 199.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 127.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 125.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 67.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 36.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 25.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 25.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 21.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 20.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 20.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 4.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 3.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 2.0
+        }
+      ]
+    },
+    {
+      "id": "petite-sirah",
+      "usda_name": "PETITE SIRAH",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 11130.0,
+      "state_total_acres_prior": 11757.0,
+      "counties": [
+        {
+          "county": "San Joaquin",
+          "acres": 2379.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 2093.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 1436.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Yolo",
+          "acres": 767.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Napa",
+          "acres": 759.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Lake",
+          "acres": 702.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 698.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 538.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Solano",
+          "acres": 336.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Monterey",
+          "acres": 306.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Alameda",
+          "acres": 198.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Madera",
+          "acres": 141.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 138.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 125.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Amador",
+          "acres": 117.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 88.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 67.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 44.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Riverside",
+          "acres": 34.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 27.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Merced",
+          "acres": 20.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Fresno",
+          "acres": 18.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Yuba",
+          "acres": 18.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Nevada",
+          "acres": 15.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Benito",
+          "acres": 15.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Tehama",
+          "acres": 15.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "San Diego",
+          "acres": 13.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Placer",
+          "acres": 7.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Colusa",
+          "acres": 5.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 2.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 2.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Butte",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Kern",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 3815.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 2093.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 1103.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 759.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 702.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 698.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 538.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 321.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 309.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 294.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 268.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 139.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 52.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 40.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 3.0
+        }
+      ]
+    },
+    {
+      "id": "pinot-blanc",
+      "usda_name": "PINOT BLANC",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 276.0,
+      "state_total_acres_prior": 259.0,
+      "counties": [
+        {
+          "county": "Sonoma",
+          "acres": 82.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Monterey",
+          "acres": 70.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 39.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 28.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Napa",
+          "acres": 25.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 11.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 10.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Alameda",
+          "acres": 5.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Benito",
+          "acres": 3.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Riverside",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "sonoma",
+          "acres": 82.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 73.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 39.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 28.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 25.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 11.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 10.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 5.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 2.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "pinot-gris",
+      "usda_name": "PINOT GRIS",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 15676.0,
+      "state_total_acres_prior": 16034.0,
+      "counties": [
+        {
+          "county": "San Joaquin",
+          "acres": 4470.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Fresno",
+          "acres": 2202.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 1769.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Yolo",
+          "acres": 1676.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Merced",
+          "acres": 862.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Monterey",
+          "acres": 830.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Madera",
+          "acres": 804.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 502.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Solano",
+          "acres": 404.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 394.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 371.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 317.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Kern",
+          "acres": 300.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Lake",
+          "acres": 233.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Kings",
+          "acres": 118.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Tulare",
+          "acres": 103.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 94.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Napa",
+          "acres": 91.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "San Benito",
+          "acres": 28.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Riverside",
+          "acres": 21.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 19.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Amador",
+          "acres": 16.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 16.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 8.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 7.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Alameda",
+          "acres": 4.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 3.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Nevada",
+          "acres": 3.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Diego",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Butte",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 2.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Trinity",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 6239.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 4706.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 2080.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 858.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 502.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 394.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 371.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 233.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 94.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 91.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 43.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 33.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 26.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 6.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 3.0
+        }
+      ]
+    },
+    {
+      "id": "pinot-noir",
+      "usda_name": "PINOT NOIR",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 44936.0,
+      "state_total_acres_prior": 46899.0,
+      "counties": [
+        {
+          "county": "Sonoma",
+          "acres": 12686.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Monterey",
+          "acres": 10209.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 5270.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 2841.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 2813.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 2293.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Napa",
+          "acres": 2276.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 1783.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Yolo",
+          "acres": 1326.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Merced",
+          "acres": 886.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 745.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Benito",
+          "acres": 589.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 269.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 191.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 165.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Fresno",
+          "acres": 111.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Lake",
+          "acres": 91.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Marin",
+          "acres": 85.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Madera",
+          "acres": 82.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 73.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 35.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Colusa",
+          "acres": 33.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 20.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Trinity",
+          "acres": 14.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Riverside",
+          "acres": 10.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 8.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 6.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Tehama",
+          "acres": 5.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Alameda",
+          "acres": 4.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 4.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Kern",
+          "acres": 3.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 3.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Butte",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "San Diego",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Yuba",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Lassen",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Placer",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Tulare",
+          "acres": 0.0,
+          "region_id": "central-valley"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "sonoma",
+          "acres": 12771.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 10798.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 5271.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 5106.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 2841.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 2276.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 2071.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 1783.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 1247.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 541.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 91.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 53.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 42.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 29.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 18.0
+        }
+      ]
+    },
+    {
+      "id": "ruby-cabernet",
+      "usda_name": "RUBY CABERNET",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 2997.0,
+      "state_total_acres_prior": 3092.0,
+      "counties": [
+        {
+          "county": "Fresno",
+          "acres": 1052.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Madera",
+          "acres": 672.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Kern",
+          "acres": 483.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Tulare",
+          "acres": 300.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 286.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 168.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 30.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Riverside",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Diego",
+          "acres": 1.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 1.0,
+          "region_id": "sonoma"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 2961.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 30.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 4.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "sangiovese",
+      "usda_name": "SANGIOVESE",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 1337.0,
+      "state_total_acres_prior": 1374.0,
+      "counties": [
+        {
+          "county": "Sonoma",
+          "acres": 252.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 172.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Amador",
+          "acres": 117.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Napa",
+          "acres": 109.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 90.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 83.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 81.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Madera",
+          "acres": 71.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Fresno",
+          "acres": 59.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Diego",
+          "acres": 42.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Benito",
+          "acres": 38.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Riverside",
+          "acres": 36.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 34.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Yolo",
+          "acres": 30.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Solano",
+          "acres": 20.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Monterey",
+          "acres": 17.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Alameda",
+          "acres": 15.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Nevada",
+          "acres": 12.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 11.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 10.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Lake",
+          "acres": 6.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Butte",
+          "acres": 5.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 5.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 5.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Placer",
+          "acres": 3.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 3.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 2.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "sonoma",
+          "acres": 252.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 178.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 172.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 133.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 109.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 90.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 86.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 85.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 81.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 55.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 50.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 32.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 6.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 5.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "sauvignon-blanc",
+      "usda_name": "SAUVIGNON BLANC",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 17970.0,
+      "state_total_acres_prior": 17663.0,
+      "counties": [
+        {
+          "county": "Sonoma",
+          "acres": 3017.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Napa",
+          "acres": 2807.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Lake",
+          "acres": 2502.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 2026.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Monterey",
+          "acres": 1404.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Yolo",
+          "acres": 1172.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 1103.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 1030.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 928.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 811.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Merced",
+          "acres": 221.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 216.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 126.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Madera",
+          "acres": 99.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Alameda",
+          "acres": 83.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Benito",
+          "acres": 82.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 53.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 52.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Amador",
+          "acres": 47.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Riverside",
+          "acres": 45.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Fresno",
+          "acres": 41.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Tulare",
+          "acres": 40.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 18.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Diego",
+          "acres": 17.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 11.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Nevada",
+          "acres": 9.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Placer",
+          "acres": 4.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 3.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Tehama",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Butte",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Kern",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 3056.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 3017.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 2807.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 2502.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 1486.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 1298.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 1103.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 928.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 812.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 618.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 146.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 131.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 65.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 3.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 3.0
+        }
+      ]
+    },
+    {
+      "id": "semillon",
+      "usda_name": "SEMILLON",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 504.0,
+      "state_total_acres_prior": 594.0,
+      "counties": [
+        {
+          "county": "Napa",
+          "acres": 178.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 95.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Yolo",
+          "acres": 81.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 36.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Lake",
+          "acres": 35.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 30.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 17.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 7.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Amador",
+          "acres": 5.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 3.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Riverside",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 2.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 2.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Alameda",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 1.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Monterey",
+          "acres": 1.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Nevada",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Yuba",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "napa",
+          "acres": 178.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 95.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 81.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 53.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 35.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 30.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 11.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 7.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 6.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 4.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 2.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 1.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "syrah",
+      "usda_name": "SYRAH",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 13688.0,
+      "state_total_acres_prior": 14290.0,
+      "counties": [
+        {
+          "county": "San Luis Obispo",
+          "acres": 2060.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Madera",
+          "acres": 1416.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Monterey",
+          "acres": 1313.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 1281.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 1272.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 1235.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 970.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Fresno",
+          "acres": 684.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Napa",
+          "acres": 677.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 449.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Yolo",
+          "acres": 421.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Lake",
+          "acres": 205.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Amador",
+          "acres": 202.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 177.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Colusa",
+          "acres": 138.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Alameda",
+          "acres": 124.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Solano",
+          "acres": 116.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 115.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Merced",
+          "acres": 112.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Riverside",
+          "acres": 84.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Kern",
+          "acres": 80.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Diego",
+          "acres": 80.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 68.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 62.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Nevada",
+          "acres": 55.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Tulare",
+          "acres": 54.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 49.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 27.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 22.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Benito",
+          "acres": 21.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Tehama",
+          "acres": 17.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Placer",
+          "acres": 14.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Butte",
+          "acres": 13.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Ventura",
+          "acres": 13.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 12.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Trinity",
+          "acres": 12.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Yuba",
+          "acres": 11.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Shasta",
+          "acres": 8.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 6.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 4.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Glenn",
+          "acres": 3.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Marin",
+          "acres": 1.0,
+          "region_id": "sonoma"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 2461.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 2242.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 2060.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 1334.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 1282.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 1248.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 677.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 537.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 507.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 449.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 279.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 205.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 194.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 190.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 24.0
+        }
+      ]
+    },
+    {
+      "id": "tempranillo",
+      "usda_name": "TEMPRANILLO",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 930.0,
+      "state_total_acres_prior": 952.0,
+      "counties": [
+        {
+          "county": "San Luis Obispo",
+          "acres": 184.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 120.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Fresno",
+          "acres": 90.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Yolo",
+          "acres": 86.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Tulare",
+          "acres": 72.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 39.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Amador",
+          "acres": 38.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 35.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Alameda",
+          "acres": 33.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Lake",
+          "acres": 33.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Riverside",
+          "acres": 30.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 30.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Napa",
+          "acres": 28.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Monterey",
+          "acres": 22.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "San Diego",
+          "acres": 16.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 14.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 13.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 12.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 7.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 6.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Placer",
+          "acres": 3.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Solano",
+          "acres": 3.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Butte",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Sutter",
+          "acres": 2.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Kern",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 1.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Madera",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Nevada",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 1.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tehama",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Ventura",
+          "acres": 1.0,
+          "region_id": "santa-barbara"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "paso-robles",
+          "acres": 184.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 176.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 155.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 95.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 89.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 47.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 43.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 33.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 30.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 28.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 22.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 14.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 8.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 6.0
+        }
+      ]
+    },
+    {
+      "id": "viognier",
+      "usda_name": "VIOGNIER",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 2400.0,
+      "state_total_acres_prior": 2438.0,
+      "counties": [
+        {
+          "county": "San Joaquin",
+          "acres": 700.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 292.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Yolo",
+          "acres": 250.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 210.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 161.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 115.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Monterey",
+          "acres": 112.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Napa",
+          "acres": 107.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Amador",
+          "acres": 51.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 49.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 48.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Riverside",
+          "acres": 44.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Merced",
+          "acres": 39.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 39.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Lake",
+          "acres": 36.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "San Diego",
+          "acres": 25.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "San Benito",
+          "acres": 21.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 15.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Fresno",
+          "acres": 13.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 13.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Madera",
+          "acres": 12.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 11.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 7.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Alameda",
+          "acres": 6.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Placer",
+          "acres": 6.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Kern",
+          "acres": 4.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Nevada",
+          "acres": 4.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Tehama",
+          "acres": 4.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Shasta",
+          "acres": 3.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Glenn",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Marin",
+          "acres": 1.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Yuba",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Butte",
+          "acres": 0.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 749.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 292.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 289.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 211.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 161.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 133.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 126.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 115.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 107.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 81.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 69.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 36.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 24.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 9.0
+        }
+      ]
+    },
+    {
+      "id": "riesling",
+      "usda_name": "WHITE RIESLING",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 2610.0,
+      "state_total_acres_prior": 2642.0,
+      "counties": [
+        {
+          "county": "Merced",
+          "acres": 746.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Monterey",
+          "acres": 615.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Yolo",
+          "acres": 366.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "San Joaquin",
+          "acres": 231.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 155.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "San Benito",
+          "acres": 105.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Napa",
+          "acres": 78.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 52.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Solano",
+          "acres": 52.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Madera",
+          "acres": 48.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 48.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Riverside",
+          "acres": 35.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Lake",
+          "acres": 25.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 23.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 10.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 7.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Diego",
+          "acres": 3.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Trinity",
+          "acres": 3.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Nevada",
+          "acres": 2.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Fresno",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Humboldt",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 1.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Yuba",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 0.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Shasta",
+          "acres": 0.0,
+          "region_id": "north-interior"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "central-valley",
+          "acres": 796.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 720.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 418.0
+        },
+        {
+          "region_id": "lodi",
+          "acres": 231.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 155.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 78.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 52.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 48.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 38.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 25.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 23.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 12.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 10.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 5.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 1.0
+        }
+      ]
+    },
+    {
+      "id": "zinfandel-primitivo",
+      "usda_name": "ZINFANDEL",
+      "unit": "acres",
+      "year": 2025,
+      "crop_year_label": "2025 crop (standing acreage)",
+      "state_total_acres": 34099.0,
+      "state_total_acres_prior": 35906.0,
+      "counties": [
+        {
+          "county": "San Joaquin",
+          "acres": 12865.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Sonoma",
+          "acres": 4541.0,
+          "region_id": "sonoma"
+        },
+        {
+          "county": "Madera",
+          "acres": 2214.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Fresno",
+          "acres": 1949.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Amador",
+          "acres": 1705.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Luis Obispo",
+          "acres": 1667.0,
+          "region_id": "paso-robles"
+        },
+        {
+          "county": "Mendocino",
+          "acres": 1533.0,
+          "region_id": "mendocino"
+        },
+        {
+          "county": "Napa",
+          "acres": 1392.0,
+          "region_id": "napa"
+        },
+        {
+          "county": "Kern",
+          "acres": 1161.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Sacramento",
+          "acres": 788.0,
+          "region_id": "lodi"
+        },
+        {
+          "county": "Colusa",
+          "acres": 773.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Merced",
+          "acres": 703.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Stanislaus",
+          "acres": 452.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "El Dorado",
+          "acres": 403.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Contra Costa",
+          "acres": 392.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Lake",
+          "acres": 338.0,
+          "region_id": "lake"
+        },
+        {
+          "county": "Tulare",
+          "acres": 299.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "Solano",
+          "acres": 232.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Monterey",
+          "acres": 121.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Santa Clara",
+          "acres": 76.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Calaveras",
+          "acres": 75.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Alameda",
+          "acres": 66.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Kings",
+          "acres": 64.0,
+          "region_id": "central-valley"
+        },
+        {
+          "county": "San Benito",
+          "acres": 55.0,
+          "region_id": "monterey"
+        },
+        {
+          "county": "Riverside",
+          "acres": 42.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Yolo",
+          "acres": 33.0,
+          "region_id": "delta-yolo"
+        },
+        {
+          "county": "Tehama",
+          "acres": 27.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Nevada",
+          "acres": 26.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Diego",
+          "acres": 23.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Los Angeles",
+          "acres": 17.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Placer",
+          "acres": 17.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "Trinity",
+          "acres": 11.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Santa Cruz",
+          "acres": 9.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "Butte",
+          "acres": 7.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Santa Barbara",
+          "acres": 6.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Sutter",
+          "acres": 5.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Mariposa",
+          "acres": 4.0,
+          "region_id": "sierra-foothills"
+        },
+        {
+          "county": "San Mateo",
+          "acres": 3.0,
+          "region_id": "livermore-bay"
+        },
+        {
+          "county": "San Bernardino",
+          "acres": 2.0,
+          "region_id": "southern-california"
+        },
+        {
+          "county": "Ventura",
+          "acres": 2.0,
+          "region_id": "santa-barbara"
+        },
+        {
+          "county": "Shasta",
+          "acres": 1.0,
+          "region_id": "north-interior"
+        },
+        {
+          "county": "Siskiyou",
+          "acres": 1.0,
+          "region_id": "other-ca"
+        },
+        {
+          "county": "Tuolumne",
+          "acres": 1.0,
+          "region_id": "sierra-foothills"
+        }
+      ],
+      "regions": [
+        {
+          "region_id": "lodi",
+          "acres": 13653.0
+        },
+        {
+          "region_id": "central-valley",
+          "acres": 6842.0
+        },
+        {
+          "region_id": "sonoma",
+          "acres": 4541.0
+        },
+        {
+          "region_id": "sierra-foothills",
+          "acres": 2231.0
+        },
+        {
+          "region_id": "paso-robles",
+          "acres": 1667.0
+        },
+        {
+          "region_id": "mendocino",
+          "acres": 1533.0
+        },
+        {
+          "region_id": "napa",
+          "acres": 1392.0
+        },
+        {
+          "region_id": "north-interior",
+          "acres": 813.0
+        },
+        {
+          "region_id": "livermore-bay",
+          "acres": 546.0
+        },
+        {
+          "region_id": "lake",
+          "acres": 338.0
+        },
+        {
+          "region_id": "delta-yolo",
+          "acres": 265.0
+        },
+        {
+          "region_id": "monterey",
+          "acres": 176.0
+        },
+        {
+          "region_id": "southern-california",
+          "acres": 84.0
+        },
+        {
+          "region_id": "other-ca",
+          "acres": 12.0
+        },
+        {
+          "region_id": "santa-barbara",
+          "acres": 8.0
+        }
+      ]
+    }
+  ]
+}
