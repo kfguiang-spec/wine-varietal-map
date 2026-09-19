@@ -1,0 +1,1301 @@
+{
+  "source": {
+    "citation": "OIV (2017). Grapevine Varieties’ Area by Country, 2015 (tables accompanying OIV Focus — Distribution of the world’s grapevine varieties). International Organisation of Vine and Wine.",
+    "url": "https://www.oiv.int/public/medias/5851/grapevine-varieties-area-by-country-2015-focus-oiv-2017.pdf",
+    "focus_url": "https://www.oiv.int/sites/default/files/2022-09/en-distribution-of-the-worlds-grapevine-varieties-2017.pdf",
+    "year": 2015,
+    "unit": "ha",
+    "coverage_note": "Covers ~75% of world vineyard area across 52 countries. More representative of wine grapes than table/dried grapes. Country cells blank in the PDF are omitted (treated as not reported / negligible in source tables)."
+  },
+  "extracted_at": "2026-09-19T20:38:52.208Z",
+  "varieties": [
+    {
+      "id": "cabernet-sauvignon",
+      "name": "Cabernet Sauvignon",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 340564,
+      "reported_sum_ha": 340562,
+      "countries": [
+        {
+          "country": "China",
+          "ha": 60000
+        },
+        {
+          "country": "France",
+          "ha": 48152
+        },
+        {
+          "country": "Chile",
+          "ha": 43211
+        },
+        {
+          "country": "USA",
+          "ha": 40720
+        },
+        {
+          "country": "Australia",
+          "ha": 24682
+        },
+        {
+          "country": "Spain",
+          "ha": 20325
+        },
+        {
+          "country": "Argentina",
+          "ha": 15431
+        },
+        {
+          "country": "Italy",
+          "ha": 13258
+        },
+        {
+          "country": "South Africa",
+          "ha": 11170
+        },
+        {
+          "country": "Other",
+          "ha": 10000
+        },
+        {
+          "country": "Ukraine",
+          "ha": 9870
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 8948
+        },
+        {
+          "country": "Romania",
+          "ha": 5359
+        },
+        {
+          "country": "Moldavia",
+          "ha": 5000
+        },
+        {
+          "country": "Russia",
+          "ha": 3500
+        },
+        {
+          "country": "Hungary",
+          "ha": 2690
+        },
+        {
+          "country": "Portugal",
+          "ha": 2452
+        },
+        {
+          "country": "Morocco",
+          "ha": 2000
+        },
+        {
+          "country": "Greece",
+          "ha": 1978
+        },
+        {
+          "country": "Brazil",
+          "ha": 1037
+        },
+        {
+          "country": "Algeria",
+          "ha": 1000
+        },
+        {
+          "country": "Lebanon",
+          "ha": 1000
+        },
+        {
+          "country": "Mexico",
+          "ha": 1000
+        },
+        {
+          "country": "Israel",
+          "ha": 990
+        },
+        {
+          "country": "Macedonia",
+          "ha": 768
+        },
+        {
+          "country": "Croatia",
+          "ha": 725
+        },
+        {
+          "country": "Canada",
+          "ha": 620
+        },
+        {
+          "country": "Austria",
+          "ha": 585
+        },
+        {
+          "country": "Slovakia",
+          "ha": 582
+        },
+        {
+          "country": "Turkey",
+          "ha": 500
+        },
+        {
+          "country": "Japan",
+          "ha": 500
+        },
+        {
+          "country": "Uruguay",
+          "ha": 492
+        },
+        {
+          "country": "Serbia",
+          "ha": 487
+        },
+        {
+          "country": "Germany",
+          "ha": 364
+        },
+        {
+          "country": "Georgia",
+          "ha": 286
+        },
+        {
+          "country": "New Zealand",
+          "ha": 275
+        },
+        {
+          "country": "Czech Rep.",
+          "ha": 238
+        },
+        {
+          "country": "Cyprus",
+          "ha": 201
+        },
+        {
+          "country": "India",
+          "ha": 100
+        },
+        {
+          "country": "Switzerland",
+          "ha": 66
+        }
+      ]
+    },
+    {
+      "id": "merlot",
+      "name": "Merlot",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 265875,
+      "reported_sum_ha": 265689,
+      "countries": [
+        {
+          "country": "France",
+          "ha": 112206
+        },
+        {
+          "country": "Italy",
+          "ha": 23631
+        },
+        {
+          "country": "USA",
+          "ha": 21017
+        },
+        {
+          "country": "Spain",
+          "ha": 12272
+        },
+        {
+          "country": "Chile",
+          "ha": 12242
+        },
+        {
+          "country": "Romania",
+          "ha": 11647
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 9682
+        },
+        {
+          "country": "Australia",
+          "ha": 8477
+        },
+        {
+          "country": "Other",
+          "ha": 8000
+        },
+        {
+          "country": "China",
+          "ha": 7000
+        },
+        {
+          "country": "South Africa",
+          "ha": 5939
+        },
+        {
+          "country": "Argentina",
+          "ha": 5706
+        },
+        {
+          "country": "Moldavia",
+          "ha": 5000
+        },
+        {
+          "country": "Ukraine",
+          "ha": 2800
+        },
+        {
+          "country": "Hungary",
+          "ha": 1973
+        },
+        {
+          "country": "Russia",
+          "ha": 1600
+        },
+        {
+          "country": "Greece",
+          "ha": 1519
+        },
+        {
+          "country": "New Zealand",
+          "ha": 1239
+        },
+        {
+          "country": "Switzerland",
+          "ha": 1124
+        },
+        {
+          "country": "Algeria",
+          "ha": 1000
+        },
+        {
+          "country": "Morocco",
+          "ha": 1000
+        },
+        {
+          "country": "Slovenia",
+          "ha": 996
+        },
+        {
+          "country": "Japan",
+          "ha": 900
+        },
+        {
+          "country": "Canada",
+          "ha": 890
+        },
+        {
+          "country": "Macedonia",
+          "ha": 838
+        },
+        {
+          "country": "Croatia",
+          "ha": 836
+        },
+        {
+          "country": "Brazil",
+          "ha": 800
+        },
+        {
+          "country": "Uruguay",
+          "ha": 754
+        },
+        {
+          "country": "Austria",
+          "ha": 722
+        },
+        {
+          "country": "Israel",
+          "ha": 715
+        },
+        {
+          "country": "Portugal",
+          "ha": 628
+        },
+        {
+          "country": "Germany",
+          "ha": 619
+        },
+        {
+          "country": "Lebanon",
+          "ha": 500
+        },
+        {
+          "country": "Mexico",
+          "ha": 500
+        },
+        {
+          "country": "Serbia",
+          "ha": 467
+        },
+        {
+          "country": "Turkey",
+          "ha": 450
+        }
+      ]
+    },
+    {
+      "id": "tempranillo",
+      "name": "Tempranillo",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 230857,
+      "reported_sum_ha": 230850,
+      "countries": [
+        {
+          "country": "Spain",
+          "ha": 203247
+        },
+        {
+          "country": "Portugal",
+          "ha": 18119
+        },
+        {
+          "country": "Argentina",
+          "ha": 6188
+        },
+        {
+          "country": "Other",
+          "ha": 1000
+        },
+        {
+          "country": "Australia",
+          "ha": 736
+        },
+        {
+          "country": "USA",
+          "ha": 590
+        },
+        {
+          "country": "France",
+          "ha": 459
+        },
+        {
+          "country": "Chile",
+          "ha": 127
+        },
+        {
+          "country": "Mexico",
+          "ha": 100
+        },
+        {
+          "country": "South Africa",
+          "ha": 96
+        },
+        {
+          "country": "Romania",
+          "ha": 67
+        },
+        {
+          "country": "Israel",
+          "ha": 55
+        },
+        {
+          "country": "Greece",
+          "ha": 24
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 24
+        },
+        {
+          "country": "New Zealand",
+          "ha": 18
+        }
+      ]
+    },
+    {
+      "id": "chardonnay",
+      "name": "Chardonnay",
+      "color": "white",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 210451,
+      "reported_sum_ha": 210451,
+      "countries": [
+        {
+          "country": "France",
+          "ha": 50623
+        },
+        {
+          "country": "USA",
+          "ha": 42912
+        },
+        {
+          "country": "Australia",
+          "ha": 21442
+        },
+        {
+          "country": "Italy",
+          "ha": 20056
+        },
+        {
+          "country": "Chile",
+          "ha": 11698
+        },
+        {
+          "country": "Spain",
+          "ha": 7568
+        },
+        {
+          "country": "South Africa",
+          "ha": 7061
+        },
+        {
+          "country": "Argentina",
+          "ha": 6226
+        },
+        {
+          "country": "Moldavia",
+          "ha": 5000
+        },
+        {
+          "country": "Other",
+          "ha": 5000
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 3306
+        },
+        {
+          "country": "New Zealand",
+          "ha": 3117
+        },
+        {
+          "country": "Ukraine",
+          "ha": 3000
+        },
+        {
+          "country": "China",
+          "ha": 2800
+        },
+        {
+          "country": "Hungary",
+          "ha": 2586
+        },
+        {
+          "country": "Romania",
+          "ha": 1878
+        },
+        {
+          "country": "Germany",
+          "ha": 1764
+        },
+        {
+          "country": "Austria",
+          "ha": 1634
+        },
+        {
+          "country": "Canada",
+          "ha": 1281
+        },
+        {
+          "country": "Slovenia",
+          "ha": 1208
+        },
+        {
+          "country": "Lebanon",
+          "ha": 1000
+        },
+        {
+          "country": "Morocco",
+          "ha": 1000
+        },
+        {
+          "country": "Mexico",
+          "ha": 1000
+        },
+        {
+          "country": "Czech Rep.",
+          "ha": 897
+        },
+        {
+          "country": "Brazil",
+          "ha": 814
+        },
+        {
+          "country": "Greece",
+          "ha": 714
+        },
+        {
+          "country": "Croatia",
+          "ha": 671
+        },
+        {
+          "country": "Japan",
+          "ha": 600
+        },
+        {
+          "country": "Macedonia",
+          "ha": 555
+        },
+        {
+          "country": "Portugal",
+          "ha": 492
+        },
+        {
+          "country": "Serbia",
+          "ha": 389
+        },
+        {
+          "country": "Slovakia",
+          "ha": 378
+        },
+        {
+          "country": "Switzerland",
+          "ha": 359
+        },
+        {
+          "country": "UK",
+          "ha": 353
+        },
+        {
+          "country": "Russia",
+          "ha": 300
+        },
+        {
+          "country": "Turkey",
+          "ha": 200
+        },
+        {
+          "country": "Israel",
+          "ha": 165
+        },
+        {
+          "country": "Uruguay",
+          "ha": 124
+        },
+        {
+          "country": "Cyprus",
+          "ha": 110
+        },
+        {
+          "country": "India",
+          "ha": 100
+        },
+        {
+          "country": "Georgia",
+          "ha": 40
+        },
+        {
+          "country": "Luxembourg",
+          "ha": 30
+        }
+      ]
+    },
+    {
+      "id": "syrah",
+      "name": "Syrah / Shiraz",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 189651,
+      "reported_sum_ha": 189651,
+      "countries": [
+        {
+          "country": "France",
+          "ha": 63985
+        },
+        {
+          "country": "Australia",
+          "ha": 39893
+        },
+        {
+          "country": "Spain",
+          "ha": 19794
+        },
+        {
+          "country": "Argentina",
+          "ha": 12836
+        },
+        {
+          "country": "South Africa",
+          "ha": 10347
+        },
+        {
+          "country": "USA",
+          "ha": 8816
+        },
+        {
+          "country": "Chile",
+          "ha": 8232
+        },
+        {
+          "country": "Italy",
+          "ha": 6333
+        },
+        {
+          "country": "Portugal",
+          "ha": 5835
+        },
+        {
+          "country": "Other",
+          "ha": 2000
+        },
+        {
+          "country": "Turkey",
+          "ha": 1500
+        },
+        {
+          "country": "China",
+          "ha": 1300
+        },
+        {
+          "country": "Greece",
+          "ha": 1108
+        },
+        {
+          "country": "Algeria",
+          "ha": 1000
+        },
+        {
+          "country": "Morocco",
+          "ha": 1000
+        },
+        {
+          "country": "Moldavia",
+          "ha": 1000
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 936
+        },
+        {
+          "country": "Romania",
+          "ha": 504
+        },
+        {
+          "country": "India",
+          "ha": 500
+        },
+        {
+          "country": "New Zealand",
+          "ha": 436
+        },
+        {
+          "country": "Israel",
+          "ha": 385
+        },
+        {
+          "country": "Cyprus",
+          "ha": 312
+        },
+        {
+          "country": "Lebanon",
+          "ha": 300
+        },
+        {
+          "country": "Canada",
+          "ha": 255
+        },
+        {
+          "country": "Croatia",
+          "ha": 216
+        },
+        {
+          "country": "Hungary",
+          "ha": 214
+        },
+        {
+          "country": "Mexico",
+          "ha": 200
+        },
+        {
+          "country": "Switzerland",
+          "ha": 194
+        },
+        {
+          "country": "Uruguay",
+          "ha": 71
+        },
+        {
+          "country": "Macedonia",
+          "ha": 62
+        },
+        {
+          "country": "Germany",
+          "ha": 61
+        },
+        {
+          "country": "Serbia",
+          "ha": 26
+        }
+      ]
+    },
+    {
+      "id": "grenache-noir",
+      "name": "Grenache Noir / Garnacha",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 163311,
+      "reported_sum_ha": 163311,
+      "countries": [
+        {
+          "country": "France",
+          "ha": 81057
+        },
+        {
+          "country": "Spain",
+          "ha": 62069
+        },
+        {
+          "country": "Italy",
+          "ha": 6128
+        },
+        {
+          "country": "Other",
+          "ha": 4000
+        },
+        {
+          "country": "Morocco",
+          "ha": 3000
+        },
+        {
+          "country": "USA",
+          "ha": 2305
+        },
+        {
+          "country": "Algeria",
+          "ha": 2000
+        },
+        {
+          "country": "Australia",
+          "ha": 1507
+        },
+        {
+          "country": "Mexico",
+          "ha": 500
+        },
+        {
+          "country": "South Africa",
+          "ha": 322
+        },
+        {
+          "country": "Chile",
+          "ha": 161
+        },
+        {
+          "country": "Croatia",
+          "ha": 102
+        },
+        {
+          "country": "Turkey",
+          "ha": 50
+        },
+        {
+          "country": "Portugal",
+          "ha": 43
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 38
+        },
+        {
+          "country": "Argentina",
+          "ha": 22
+        },
+        {
+          "country": "Macedonia",
+          "ha": 6
+        },
+        {
+          "country": "Switzerland",
+          "ha": 1
+        }
+      ]
+    },
+    {
+      "id": "sauvignon-blanc",
+      "name": "Sauvignon Blanc",
+      "color": "white",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 123271,
+      "reported_sum_ha": 123270,
+      "countries": [
+        {
+          "country": "France",
+          "ha": 29915
+        },
+        {
+          "country": "New Zealand",
+          "ha": 20497
+        },
+        {
+          "country": "Chile",
+          "ha": 15172
+        },
+        {
+          "country": "South Africa",
+          "ha": 9263
+        },
+        {
+          "country": "USA",
+          "ha": 6673
+        },
+        {
+          "country": "Australia",
+          "ha": 6097
+        },
+        {
+          "country": "Romania",
+          "ha": 5594
+        },
+        {
+          "country": "Spain",
+          "ha": 4618
+        },
+        {
+          "country": "Ukraine",
+          "ha": 3100
+        },
+        {
+          "country": "Italy",
+          "ha": 3031
+        },
+        {
+          "country": "Other",
+          "ha": 3000
+        },
+        {
+          "country": "Argentina",
+          "ha": 2171
+        },
+        {
+          "country": "Moldavia",
+          "ha": 2000
+        },
+        {
+          "country": "Austria",
+          "ha": 1257
+        },
+        {
+          "country": "Slovenia",
+          "ha": 1061
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 1040
+        },
+        {
+          "country": "Hungary",
+          "ha": 981
+        },
+        {
+          "country": "Czech Rep.",
+          "ha": 944
+        },
+        {
+          "country": "Russia",
+          "ha": 900
+        },
+        {
+          "country": "Germany",
+          "ha": 894
+        },
+        {
+          "country": "Greece",
+          "ha": 765
+        },
+        {
+          "country": "India",
+          "ha": 500
+        },
+        {
+          "country": "Lebanon",
+          "ha": 500
+        },
+        {
+          "country": "Morocco",
+          "ha": 500
+        },
+        {
+          "country": "Mexico",
+          "ha": 500
+        },
+        {
+          "country": "Portugal",
+          "ha": 307
+        },
+        {
+          "country": "Slovakia",
+          "ha": 287
+        },
+        {
+          "country": "Canada",
+          "ha": 268
+        },
+        {
+          "country": "Serbia",
+          "ha": 261
+        },
+        {
+          "country": "Croatia",
+          "ha": 256
+        },
+        {
+          "country": "Turkey",
+          "ha": 200
+        },
+        {
+          "country": "Switzerland",
+          "ha": 170
+        },
+        {
+          "country": "Uruguay",
+          "ha": 148
+        },
+        {
+          "country": "Macedonia",
+          "ha": 141
+        },
+        {
+          "country": "Israel",
+          "ha": 110
+        },
+        {
+          "country": "Brazil",
+          "ha": 100
+        },
+        {
+          "country": "Cyprus",
+          "ha": 49
+        }
+      ]
+    },
+    {
+      "id": "pinot-noir",
+      "name": "Pinot Noir",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 111521,
+      "reported_sum_ha": 111521,
+      "countries": [
+        {
+          "country": "France",
+          "ha": 32289
+        },
+        {
+          "country": "USA",
+          "ha": 25004
+        },
+        {
+          "country": "Germany",
+          "ha": 11784
+        },
+        {
+          "country": "New Zealand",
+          "ha": 5514
+        },
+        {
+          "country": "Australia",
+          "ha": 4948
+        },
+        {
+          "country": "Italy",
+          "ha": 4711
+        },
+        {
+          "country": "Switzerland",
+          "ha": 4207
+        },
+        {
+          "country": "Chile",
+          "ha": 4148
+        },
+        {
+          "country": "Other",
+          "ha": 4000
+        },
+        {
+          "country": "Argentina",
+          "ha": 1988
+        },
+        {
+          "country": "Romania",
+          "ha": 1930
+        },
+        {
+          "country": "South Africa",
+          "ha": 1120
+        },
+        {
+          "country": "Hungary",
+          "ha": 1094
+        },
+        {
+          "country": "Spain",
+          "ha": 1026
+        },
+        {
+          "country": "China",
+          "ha": 1000
+        },
+        {
+          "country": "Ukraine",
+          "ha": 770
+        },
+        {
+          "country": "Czech Rep.",
+          "ha": 718
+        },
+        {
+          "country": "Russia",
+          "ha": 700
+        },
+        {
+          "country": "Austria",
+          "ha": 624
+        },
+        {
+          "country": "Canada",
+          "ha": 603
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 555
+        },
+        {
+          "country": "Slovenia",
+          "ha": 501
+        },
+        {
+          "country": "Brazil",
+          "ha": 415
+        },
+        {
+          "country": "Macedonia",
+          "ha": 344
+        },
+        {
+          "country": "UK",
+          "ha": 323
+        },
+        {
+          "country": "Portugal",
+          "ha": 281
+        },
+        {
+          "country": "Slovakia",
+          "ha": 251
+        },
+        {
+          "country": "Croatia",
+          "ha": 191
+        },
+        {
+          "country": "Serbia",
+          "ha": 185
+        },
+        {
+          "country": "Luxembourg",
+          "ha": 121
+        },
+        {
+          "country": "India",
+          "ha": 100
+        },
+        {
+          "country": "Uruguay",
+          "ha": 61
+        },
+        {
+          "country": "Greece",
+          "ha": 15
+        }
+      ]
+    },
+    {
+      "id": "riesling",
+      "name": "Riesling",
+      "color": "white",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 63537,
+      "reported_sum_ha": 63537,
+      "countries": [
+        {
+          "country": "Germany",
+          "ha": 23596
+        },
+        {
+          "country": "Romania",
+          "ha": 6121
+        },
+        {
+          "country": "USA",
+          "ha": 4605
+        },
+        {
+          "country": "France",
+          "ha": 4025
+        },
+        {
+          "country": "Australia",
+          "ha": 3157
+        },
+        {
+          "country": "Ukraine",
+          "ha": 2700
+        },
+        {
+          "country": "China",
+          "ha": 2500
+        },
+        {
+          "country": "Austria",
+          "ha": 2068
+        },
+        {
+          "country": "Other",
+          "ha": 2000
+        },
+        {
+          "country": "Italy",
+          "ha": 1681
+        },
+        {
+          "country": "Hungary",
+          "ha": 1283
+        },
+        {
+          "country": "Czech Rep.",
+          "ha": 1226
+        },
+        {
+          "country": "Canada",
+          "ha": 1070
+        },
+        {
+          "country": "Moldavia",
+          "ha": 1000
+        },
+        {
+          "country": "Slovakia",
+          "ha": 946
+        },
+        {
+          "country": "Russia",
+          "ha": 900
+        },
+        {
+          "country": "New Zealand",
+          "ha": 767
+        },
+        {
+          "country": "Slovenia",
+          "ha": 676
+        },
+        {
+          "country": "Macedonia",
+          "ha": 671
+        },
+        {
+          "country": "Croatia",
+          "ha": 638
+        },
+        {
+          "country": "Serbia",
+          "ha": 460
+        },
+        {
+          "country": "Chile",
+          "ha": 420
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 334
+        },
+        {
+          "country": "Spain",
+          "ha": 180
+        },
+        {
+          "country": "Luxembourg",
+          "ha": 162
+        },
+        {
+          "country": "South Africa",
+          "ha": 155
+        },
+        {
+          "country": "Argentina",
+          "ha": 93
+        },
+        {
+          "country": "Japan",
+          "ha": 50
+        },
+        {
+          "country": "Portugal",
+          "ha": 27
+        },
+        {
+          "country": "Greece",
+          "ha": 16
+        },
+        {
+          "country": "Switzerland",
+          "ha": 10
+        }
+      ]
+    },
+    {
+      "id": "zinfandel-primitivo",
+      "name": "Zinfandel / Primitivo",
+      "color": "black",
+      "wine": true,
+      "unit": "ha",
+      "year": 2015,
+      "world_total_ha": 35387,
+      "reported_sum_ha": 35386,
+      "countries": [
+        {
+          "country": "USA",
+          "ha": 18850
+        },
+        {
+          "country": "Italy",
+          "ha": 16321
+        },
+        {
+          "country": "Australia",
+          "ha": 86
+        },
+        {
+          "country": "Croatia",
+          "ha": 67
+        },
+        {
+          "country": "Chile",
+          "ha": 32
+        },
+        {
+          "country": "South Africa",
+          "ha": 24
+        },
+        {
+          "country": "Bulgaria",
+          "ha": 5
+        },
+        {
+          "country": "Switzerland",
+          "ha": 1
+        }
+      ]
+    }
+  ]
+}

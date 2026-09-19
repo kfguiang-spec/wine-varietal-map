@@ -1,0 +1,310 @@
+{
+  "fetched_at": "2026-09-19T20:49:12.176Z",
+  "source": "Open-Meteo Historical Weather API (ERA5). Overlapping CA/France points seeded from sibling french-wine-regions / us-wine-regions climate.json (identical ERA5 1991–2020 methodology). Remaining points filled by scripts/fetch-climate.mjs when API quota allows.",
+  "attribution": "https://open-meteo.com/",
+  "citation": "Hersbach et al. (2023). ERA5 hourly data on single levels from 1940 to present. ECMWF. https://doi.org/10.24381/cds.adbb2d47 — via Open-Meteo.",
+  "methodology": "For each representative station coordinate, daily 2 m mean air temperature (ERA5) averaged 1991-01-01 through 2020-12-31. Growing season = Apr–Oct. Same methodology as french-wine-regions / us-wine-regions.",
+  "pending_ids": [
+    "lake",
+    "livermore-bay",
+    "central-valley",
+    "delta-yolo",
+    "southern-california",
+    "north-interior",
+    "other-ca",
+    "chile",
+    "china",
+    "spain",
+    "italy",
+    "australia",
+    "south-africa",
+    "argentina",
+    "new-zealand",
+    "germany",
+    "portugal",
+    "romania",
+    "bulgaria"
+  ],
+  "regions": [
+    {
+      "id": "napa",
+      "station": "Napa",
+      "requested": {
+        "lat": 38.5025,
+        "lon": -122.2654
+      },
+      "grid": {
+        "latitude": 38.25,
+        "longitude": -122.25,
+        "elevation_m": 10
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.1,
+      "growing_season_mean_c": 19.3,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Napa Valley",
+      "kind": "ca-region",
+      "note": "Highest-prestige Cabernet acreage in CA; small share of state total vs Central Valley/Paso.",
+      "seeded_from": "napa"
+    },
+    {
+      "id": "sonoma",
+      "station": "Santa Rosa",
+      "requested": {
+        "lat": 38.4021,
+        "lon": -122.7144
+      },
+      "grid": {
+        "latitude": 38.5,
+        "longitude": -122.75,
+        "elevation_m": 54
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.9,
+      "growing_season_mean_c": 19.2,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Sonoma County",
+      "kind": "ca-region",
+      "note": "Diverse plantings; Pinot Noir and Chardonnay strong on the coast, Cabernet inland.",
+      "seeded_from": "sonoma"
+    },
+    {
+      "id": "paso-robles",
+      "station": "Paso Robles",
+      "requested": {
+        "lat": 35.6266,
+        "lon": -120.691
+      },
+      "grid": {
+        "latitude": 35.75,
+        "longitude": -120.75,
+        "elevation_m": 229
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.4,
+      "growing_season_mean_c": 19.9,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Paso Robles / SLO",
+      "kind": "ca-region",
+      "note": "Mapped primarily from San Luis Obispo County; large Cabernet and Rhône acreage at scale.",
+      "seeded_from": "paso-robles"
+    },
+    {
+      "id": "santa-barbara",
+      "station": "Lompoc / Santa Ynez",
+      "requested": {
+        "lat": 34.6361,
+        "lon": -120.4579
+      },
+      "grid": {
+        "latitude": 34.5,
+        "longitude": -119.75,
+        "elevation_m": 14
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 18.8,
+      "growing_season_mean_c": 21.5,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Santa Barbara",
+      "kind": "ca-region",
+      "note": "Cool-climate Pinot/Chardonnay (Sta. Rita Hills) and warmer inland valleys.",
+      "seeded_from": "santa-barbara"
+    },
+    {
+      "id": "lodi",
+      "station": "Lodi",
+      "requested": {
+        "lat": 38.1302,
+        "lon": -121.2722
+      },
+      "grid": {
+        "latitude": 38.25,
+        "longitude": -121.25,
+        "elevation_m": 19
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.5,
+      "growing_season_mean_c": 20.5,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Lodi / Delta",
+      "kind": "ca-region",
+      "note": "High-volume Zinfandel and Cabernet from San Joaquin/Sacramento counties; value-oriented scale.",
+      "seeded_from": "lodi"
+    },
+    {
+      "id": "monterey",
+      "station": "Soledad / Salinas Valley",
+      "requested": {
+        "lat": 36.4002,
+        "lon": -121.3227
+      },
+      "grid": {
+        "latitude": 36.75,
+        "longitude": -121.75,
+        "elevation_m": 15
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 14.2,
+      "growing_season_mean_c": 15.8,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Monterey / San Benito",
+      "kind": "ca-region",
+      "note": "Long cool growing season; large Chardonnay and Pinot plantings.",
+      "seeded_from": "monterey"
+    },
+    {
+      "id": "mendocino",
+      "station": "Ukiah",
+      "requested": {
+        "lat": 39.1502,
+        "lon": -123.2078
+      },
+      "grid": {
+        "latitude": 39.25,
+        "longitude": -123.25,
+        "elevation_m": 198
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.6,
+      "growing_season_mean_c": 19.4,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Mendocino",
+      "kind": "ca-region",
+      "note": "Coastal and inland valleys; notable for organics and cooler-climate reds/whites.",
+      "seeded_from": "mendocino"
+    },
+    {
+      "id": "sierra-foothills",
+      "station": "Amador / Placerville",
+      "requested": {
+        "lat": 38.4199,
+        "lon": -120.802
+      },
+      "grid": {
+        "latitude": 38.75,
+        "longitude": -120.75,
+        "elevation_m": 568
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16,
+      "growing_season_mean_c": 20.4,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "Sierra Foothills",
+      "kind": "ca-region",
+      "note": "Old-vine Zinfandel country; smaller total acres, distinctive elevation.",
+      "seeded_from": "sierra-foothills"
+    },
+    {
+      "id": "france",
+      "station": "Bordeaux",
+      "requested": {
+        "lat": 44.8378,
+        "lon": -0.5792
+      },
+      "grid": {
+        "latitude": 44.75,
+        "longitude": -0.5,
+        "elevation_m": 16
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 14.1,
+      "growing_season_mean_c": 18.1,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "France (Bordeaux)",
+      "kind": "country",
+      "note": null,
+      "seeded_from": "bordeaux"
+    },
+    {
+      "id": "usa",
+      "station": "Napa",
+      "requested": {
+        "lat": 38.5025,
+        "lon": -122.2654
+      },
+      "grid": {
+        "latitude": 38.25,
+        "longitude": -122.25,
+        "elevation_m": 10
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.1,
+      "growing_season_mean_c": 19.3,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420,
+      "name": "USA (Napa)",
+      "kind": "country",
+      "note": null,
+      "seeded_from": "napa"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "napa",
+    "name": "Napa Valley",
+    "lat": 38.5025,
+    "lon": -122.2654,
+    "station": "Napa",
+    "note": "Highest-prestige Cabernet acreage in CA; small share of state total vs Central Valley/Paso.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "sonoma",
+    "name": "Sonoma County",
+    "lat": 38.4021,
+    "lon": -122.7144,
+    "station": "Santa Rosa",
+    "note": "Diverse plantings; Pinot Noir and Chardonnay strong on the coast, Cabernet inland.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "paso-robles",
+    "name": "Paso Robles / SLO",
+    "lat": 35.6266,
+    "lon": -120.691,
+    "station": "Paso Robles",
+    "note": "Mapped primarily from San Luis Obispo County; large Cabernet and Rh\u00f4ne acreage at scale.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "santa-barbara",
+    "name": "Santa Barbara",
+    "lat": 34.6361,
+    "lon": -120.4579,
+    "station": "Lompoc / Santa Ynez",
+    "note": "Cool-climate Pinot/Chardonnay (Sta. Rita Hills) and warmer inland valleys.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "lodi",
+    "name": "Lodi / Delta",
+    "lat": 38.1302,
+    "lon": -121.2722,
+    "station": "Lodi",
+    "note": "High-volume Zinfandel and Cabernet from San Joaquin/Sacramento counties; value-oriented scale.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "monterey",
+    "name": "Monterey / San Benito",
+    "lat": 36.4002,
+    "lon": -121.3227,
+    "station": "Soledad / Salinas Valley",
+    "note": "Long cool growing season; large Chardonnay and Pinot plantings.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "mendocino",
+    "name": "Mendocino",
+    "lat": 39.1502,
+    "lon": -123.2078,
+    "station": "Ukiah",
+    "note": "Coastal and inland valleys; notable for organics and cooler-climate reds/whites.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "lake",
+    "name": "Lake County",
+    "lat": 38.91,
+    "lon": -122.61,
+    "station": "Lakeport",
+    "note": "Elevated volcanic sites; significant Cabernet acreage relative to fame.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "livermore-bay",
+    "name": "SF Bay / Livermore",
+    "lat": 37.6819,
+    "lon": -121.768,
+    "station": "Livermore",
+    "note": "Historic Bay Area vineyards; modest acreage vs Central Coast and Valley.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "sierra-foothills",
+    "name": "Sierra Foothills",
+    "lat": 38.4199,
+    "lon": -120.802,
+    "station": "Amador / Placerville",
+    "note": "Old-vine Zinfandel country; smaller total acres, distinctive elevation.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "central-valley",
+    "name": "Central Valley (bulk)",
+    "lat": 36.7378,
+    "lon": -119.7871,
+    "station": "Fresno",
+    "note": "Warm inland valley; large share of CA winegrape acres for many varieties.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "delta-yolo",
+    "name": "Yolo / Solano",
+    "lat": 38.5449,
+    "lon": -121.7405,
+    "station": "Davis",
+    "note": "Delta-influenced plantings between Bay and Sacramento Valley.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "southern-california",
+    "name": "Southern California",
+    "lat": 33.503,
+    "lon": -117.123,
+    "station": "Temecula",
+    "note": "Smaller winegrape footprint; tourism-oriented AVAs.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "north-interior",
+    "name": "North Interior",
+    "lat": 39.927,
+    "lon": -122.18,
+    "station": "Red Bluff / Chico",
+    "note": "Interior northern counties; limited specialty acreage.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "other-ca",
+    "name": "Other California",
+    "lat": 37.0,
+    "lon": -120.0,
+    "station": "Central CA (approx)",
+    "note": "Counties not mapped to a named PoC region.",
+    "kind": "ca-region"
+  },
+  {
+    "id": "france",
+    "name": "France (Bordeaux)",
+    "lat": 44.8378,
+    "lon": -0.5792,
+    "station": "Bordeaux",
+    "kind": "country"
+  },
+  {
+    "id": "usa",
+    "name": "USA (Napa)",
+    "lat": 38.5025,
+    "lon": -122.2654,
+    "station": "Napa",
+    "kind": "country"
+  },
+  {
+    "id": "chile",
+    "name": "Chile (Maipo)",
+    "lat": -33.6167,
+    "lon": -70.5667,
+    "station": "Puente Alto / Maipo",
+    "kind": "country"
+  },
+  {
+    "id": "china",
+    "name": "China (Ningxia)",
+    "lat": 38.4872,
+    "lon": 106.2309,
+    "station": "Yinchuan",
+    "kind": "country"
+  },
+  {
+    "id": "spain",
+    "name": "Spain (Rioja)",
+    "lat": 42.4627,
+    "lon": -2.4449,
+    "station": "Logro\u00f1o",
+    "kind": "country"
+  },
+  {
+    "id": "italy",
+    "name": "Italy (Tuscany)",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "station": "Florence",
+    "kind": "country"
+  },
+  {
+    "id": "australia",
+    "name": "Australia (Barossa)",
+    "lat": -34.5333,
+    "lon": 138.95,
+    "station": "Tanunda",
+    "kind": "country"
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa (Stellenbosch)",
+    "lat": -33.9321,
+    "lon": 18.8602,
+    "station": "Stellenbosch",
+    "kind": "country"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina (Mendoza)",
+    "lat": -32.8895,
+    "lon": -68.8458,
+    "station": "Mendoza",
+    "kind": "country"
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand (Marlborough)",
+    "lat": -41.513,
+    "lon": 173.958,
+    "station": "Blenheim",
+    "kind": "country"
+  },
+  {
+    "id": "germany",
+    "name": "Germany (Mosel)",
+    "lat": 49.888,
+    "lon": 6.876,
+    "station": "Bernkastel-Kues",
+    "kind": "country"
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal (Douro)",
+    "lat": 41.15,
+    "lon": -7.6,
+    "station": "R\u00e9gua",
+    "kind": "country"
+  },
+  {
+    "id": "romania",
+    "name": "Romania (Dealu Mare)",
+    "lat": 45.0,
+    "lon": 26.4,
+    "station": "Ploie\u0219ti area",
+    "kind": "country"
+  },
+  {
+    "id": "bulgaria",
+    "name": "Bulgaria (Thracian)",
+    "lat": 42.15,
+    "lon": 24.75,
+    "station": "Plovdiv",
+    "kind": "country"
+  }
+]
