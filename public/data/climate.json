@@ -1,30 +1,10 @@
 {
-  "fetched_at": "2026-09-19T20:49:12.176Z",
   "source": "Open-Meteo Historical Weather API (ERA5). Overlapping CA/France points seeded from sibling french-wine-regions / us-wine-regions climate.json (identical ERA5 1991–2020 methodology). Remaining points filled by scripts/fetch-climate.mjs when API quota allows.",
   "attribution": "https://open-meteo.com/",
   "citation": "Hersbach et al. (2023). ERA5 hourly data on single levels from 1940 to present. ECMWF. https://doi.org/10.24381/cds.adbb2d47 — via Open-Meteo.",
   "methodology": "For each representative station coordinate, daily 2 m mean air temperature (ERA5) averaged 1991-01-01 through 2020-12-31. Growing season = Apr–Oct. Same methodology as french-wine-regions / us-wine-regions.",
-  "pending_ids": [
-    "lake",
-    "livermore-bay",
-    "central-valley",
-    "delta-yolo",
-    "southern-california",
-    "north-interior",
-    "other-ca",
-    "chile",
-    "china",
-    "spain",
-    "italy",
-    "australia",
-    "south-africa",
-    "argentina",
-    "new-zealand",
-    "germany",
-    "portugal",
-    "romania",
-    "bulgaria"
-  ],
+  "fetched_at": "2026-09-19T21:08:28.639Z",
+  "pending_ids": [],
   "regions": [
     {
       "id": "napa",
@@ -223,6 +203,60 @@
       "seeded_from": "mendocino"
     },
     {
+      "id": "lake",
+      "name": "Lake County",
+      "station": "Lakeport",
+      "kind": "ca-region",
+      "note": "Elevated volcanic sites; significant Cabernet acreage relative to fame.",
+      "requested": {
+        "lat": 38.91,
+        "lon": -122.61
+      },
+      "grid": {
+        "latitude": 39,
+        "longitude": -122.5,
+        "elevation_m": 419
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.8,
+      "growing_season_mean_c": 21.5,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "livermore-bay",
+      "name": "SF Bay / Livermore",
+      "station": "Livermore",
+      "kind": "ca-region",
+      "note": "Historic Bay Area vineyards; modest acreage vs Central Coast and Valley.",
+      "requested": {
+        "lat": 37.6819,
+        "lon": -121.768
+      },
+      "grid": {
+        "latitude": 37.75,
+        "longitude": -121.75,
+        "elevation_m": 153
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.6,
+      "growing_season_mean_c": 18.8,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
       "id": "sierra-foothills",
       "station": "Amador / Placerville",
       "requested": {
@@ -249,6 +283,141 @@
       "kind": "ca-region",
       "note": "Old-vine Zinfandel country; smaller total acres, distinctive elevation.",
       "seeded_from": "sierra-foothills"
+    },
+    {
+      "id": "central-valley",
+      "name": "Central Valley (bulk)",
+      "station": "Fresno",
+      "kind": "ca-region",
+      "note": "Warm inland valley; large share of CA winegrape acres for many varieties.",
+      "requested": {
+        "lat": 36.7378,
+        "lon": -119.7871
+      },
+      "grid": {
+        "latitude": 36.75,
+        "longitude": -119.75,
+        "elevation_m": 91
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 18.6,
+      "growing_season_mean_c": 23.6,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "delta-yolo",
+      "name": "Yolo / Solano",
+      "station": "Davis",
+      "kind": "ca-region",
+      "note": "Delta-influenced plantings between Bay and Sacramento Valley.",
+      "requested": {
+        "lat": 38.5449,
+        "lon": -121.7405
+      },
+      "grid": {
+        "latitude": 38.5,
+        "longitude": -121.75,
+        "elevation_m": 17
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 17.3,
+      "growing_season_mean_c": 21.3,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "southern-california",
+      "name": "Southern California",
+      "station": "Temecula",
+      "kind": "ca-region",
+      "note": "Smaller winegrape footprint; tourism-oriented AVAs.",
+      "requested": {
+        "lat": 33.503,
+        "lon": -117.123
+      },
+      "grid": {
+        "latitude": 33.5,
+        "longitude": -117,
+        "elevation_m": 385
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 18.4,
+      "growing_season_mean_c": 22.1,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "north-interior",
+      "name": "North Interior",
+      "station": "Red Bluff / Chico",
+      "kind": "ca-region",
+      "note": "Interior northern counties; limited specialty acreage.",
+      "requested": {
+        "lat": 39.927,
+        "lon": -122.18
+      },
+      "grid": {
+        "latitude": 40,
+        "longitude": -122.25,
+        "elevation_m": 83
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 18.6,
+      "growing_season_mean_c": 23.8,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "other-ca",
+      "name": "Other California",
+      "station": "Central CA (approx)",
+      "kind": "ca-region",
+      "note": "Counties not mapped to a named PoC region.",
+      "requested": {
+        "lat": 37,
+        "lon": -120
+      },
+      "grid": {
+        "latitude": 37,
+        "longitude": -120,
+        "elevation_m": 93
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 18.4,
+      "growing_season_mean_c": 23.5,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
     },
     {
       "id": "france",
@@ -305,6 +474,330 @@
       "kind": "country",
       "note": null,
       "seeded_from": "napa"
+    },
+    {
+      "id": "chile",
+      "name": "Chile (Maipo)",
+      "station": "Puente Alto / Maipo",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": -33.6167,
+        "lon": -70.5667
+      },
+      "grid": {
+        "latitude": -33.5,
+        "longitude": -70.5,
+        "elevation_m": 696
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.6,
+      "growing_season_mean_c": 11.8,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "china",
+      "name": "China (Ningxia)",
+      "station": "Yinchuan",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 38.4872,
+        "lon": 106.2309
+      },
+      "grid": {
+        "latitude": 38.5,
+        "longitude": 106.25,
+        "elevation_m": 1109
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 10.3,
+      "growing_season_mean_c": 18.3,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "spain",
+      "name": "Spain (Rioja)",
+      "station": "Logroño",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 42.4627,
+        "lon": -2.4449
+      },
+      "grid": {
+        "latitude": 42.5,
+        "longitude": -2.5,
+        "elevation_m": 396
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 14,
+      "growing_season_mean_c": 17.9,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "italy",
+      "name": "Italy (Tuscany)",
+      "station": "Florence",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 43.7696,
+        "lon": 11.2558
+      },
+      "grid": {
+        "latitude": 43.75,
+        "longitude": 11.25,
+        "elevation_m": 65
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.1,
+      "growing_season_mean_c": 19.9,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "australia",
+      "name": "Australia (Barossa)",
+      "station": "Tanunda",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": -34.5333,
+        "lon": 138.95
+      },
+      "grid": {
+        "latitude": -34.5,
+        "longitude": 139,
+        "elevation_m": 240
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.3,
+      "growing_season_mean_c": 12.1,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa (Stellenbosch)",
+      "station": "Stellenbosch",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": -33.9321,
+        "lon": 18.8602
+      },
+      "grid": {
+        "latitude": -34,
+        "longitude": 18.75,
+        "elevation_m": 109
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.8,
+      "growing_season_mean_c": 14.6,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina (Mendoza)",
+      "station": "Mendoza",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": -32.8895,
+        "lon": -68.8458
+      },
+      "grid": {
+        "latitude": -33,
+        "longitude": -68.75,
+        "elevation_m": 763
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 16.8,
+      "growing_season_mean_c": 12.3,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand (Marlborough)",
+      "station": "Blenheim",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": -41.513,
+        "lon": 173.958
+      },
+      "grid": {
+        "latitude": -41.5,
+        "longitude": 174,
+        "elevation_m": 7
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 13.1,
+      "growing_season_mean_c": 10.8,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "germany",
+      "name": "Germany (Mosel)",
+      "station": "Bernkastel-Kues",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 49.888,
+        "lon": 6.876
+      },
+      "grid": {
+        "latitude": 50,
+        "longitude": 7,
+        "elevation_m": 350
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 9.3,
+      "growing_season_mean_c": 13.8,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal (Douro)",
+      "station": "Régua",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 41.15,
+        "lon": -7.6
+      },
+      "grid": {
+        "latitude": 41.25,
+        "longitude": -7.5,
+        "elevation_m": 280
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 15.1,
+      "growing_season_mean_c": 18.9,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "romania",
+      "name": "Romania (Dealu Mare)",
+      "station": "Ploiești area",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 45,
+        "lon": 26.4
+      },
+      "grid": {
+        "latitude": 45,
+        "longitude": 26.5,
+        "elevation_m": 135
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 11.6,
+      "growing_season_mean_c": 18,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
+    },
+    {
+      "id": "bulgaria",
+      "name": "Bulgaria (Thracian)",
+      "station": "Plovdiv",
+      "kind": "country",
+      "note": null,
+      "requested": {
+        "lat": 42.15,
+        "lon": 24.75
+      },
+      "grid": {
+        "latitude": 42.25,
+        "longitude": 24.75,
+        "elevation_m": 166
+      },
+      "period": {
+        "start": "1991-01-01",
+        "end": "2020-12-31"
+      },
+      "model": "era5",
+      "units": "°C",
+      "annual_mean_c": 13.5,
+      "growing_season_mean_c": 19.5,
+      "growing_season_months": "Apr–Oct",
+      "sample_days": 10958,
+      "growing_season_days": 6420
     }
   ]
 }
