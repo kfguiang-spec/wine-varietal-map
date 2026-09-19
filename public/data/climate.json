@@ -2,8 +2,8 @@
   "source": "Open-Meteo Historical Weather API (ERA5). Overlapping CA/France points seeded from sibling french-wine-regions / us-wine-regions climate.json (identical ERA5 1991–2020 methodology). Remaining points filled by scripts/fetch-climate.mjs when API quota allows.",
   "attribution": "https://open-meteo.com/",
   "citation": "Hersbach et al. (2023). ERA5 hourly data on single levels from 1940 to present. ECMWF. https://doi.org/10.24381/cds.adbb2d47 — via Open-Meteo.",
-  "methodology": "For each representative station coordinate, daily 2 m mean air temperature (ERA5) averaged 1991-01-01 through 2020-12-31. Growing season = Apr–Oct. Same methodology as french-wine-regions / us-wine-regions.",
-  "fetched_at": "2026-09-19T21:08:28.639Z",
+  "methodology": "For each representative station coordinate, daily 2 m mean air temperature (ERA5) was requested for 1991-01-01 through 2020-12-31. Annual mean = average of all daily means. Growing-season mean = Apr–Oct (Northern Hemisphere) or Oct–Apr (Southern Hemisphere wine regions: Chile, Argentina, Australia, South Africa, New Zealand). Values rounded to 0.1 °C.",
+  "fetched_at": "2026-09-19T21:17:01.772Z",
   "pending_ids": [],
   "regions": [
     {
@@ -497,10 +497,10 @@
       "model": "era5",
       "units": "°C",
       "annual_mean_c": 15.6,
-      "growing_season_mean_c": 11.8,
-      "growing_season_months": "Apr–Oct",
+      "growing_season_mean_c": 19.4,
+      "growing_season_months": "Oct–Apr (SH)",
       "sample_days": 10958,
-      "growing_season_days": 6420
+      "growing_season_days": 6368
     },
     {
       "id": "china",
@@ -605,10 +605,10 @@
       "model": "era5",
       "units": "°C",
       "annual_mean_c": 15.3,
-      "growing_season_mean_c": 12.1,
-      "growing_season_months": "Apr–Oct",
+      "growing_season_mean_c": 18.6,
+      "growing_season_months": "Oct–Apr (SH)",
       "sample_days": 10958,
-      "growing_season_days": 6420
+      "growing_season_days": 6368
     },
     {
       "id": "south-africa",
@@ -632,10 +632,10 @@
       "model": "era5",
       "units": "°C",
       "annual_mean_c": 16.8,
-      "growing_season_mean_c": 14.6,
-      "growing_season_months": "Apr–Oct",
+      "growing_season_mean_c": 19.1,
+      "growing_season_months": "Oct–Apr (SH)",
       "sample_days": 10958,
-      "growing_season_days": 6420
+      "growing_season_days": 6368
     },
     {
       "id": "argentina",
@@ -659,10 +659,10 @@
       "model": "era5",
       "units": "°C",
       "annual_mean_c": 16.8,
-      "growing_season_mean_c": 12.3,
-      "growing_season_months": "Apr–Oct",
+      "growing_season_mean_c": 21.3,
+      "growing_season_months": "Oct–Apr (SH)",
       "sample_days": 10958,
-      "growing_season_days": 6420
+      "growing_season_days": 6368
     },
     {
       "id": "new-zealand",
@@ -686,10 +686,10 @@
       "model": "era5",
       "units": "°C",
       "annual_mean_c": 13.1,
-      "growing_season_mean_c": 10.8,
-      "growing_season_months": "Apr–Oct",
+      "growing_season_mean_c": 15.4,
+      "growing_season_months": "Oct–Apr (SH)",
       "sample_days": 10958,
-      "growing_season_days": 6420
+      "growing_season_days": 6368
     },
     {
       "id": "germany",

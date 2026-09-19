@@ -26,13 +26,17 @@ function round1(n) {
   return n == null ? null : Math.round(n * 10) / 10
 }
 
+const SH_IDS = new Set(['chile', 'australia', 'south-africa', 'argentina', 'new-zealand'])
+
 function summarize(region, data) {
   const times = data.daily.time
   const temps = data.daily.temperature_2m_mean
+  const sh = SH_IDS.has(region.id) || (region.lat != null && region.lat < 0)
   const growing = []
   for (let i = 0; i < times.length; i++) {
     const month = Number(times[i].slice(5, 7))
-    if (month >= 4 && month <= 10) growing.push(temps[i])
+    const inGrow = sh ? month >= 10 || month <= 4 : month >= 4 && month <= 10
+    if (inGrow) growing.push(temps[i])
   }
   return {
     id: region.id,
@@ -51,7 +55,7 @@ function summarize(region, data) {
     units: '°C',
     annual_mean_c: round1(mean(temps)),
     growing_season_mean_c: round1(mean(growing)),
-    growing_season_months: 'Apr–Oct',
+    growing_season_months: sh ? 'Oct–Apr (SH)' : 'Apr–Oct',
     sample_days: times.length,
     growing_season_days: growing.length,
   }
@@ -126,7 +130,7 @@ async function main() {
     citation:
       'Hersbach et al. (2023). ERA5 hourly data on single levels from 1940 to present. ECMWF. https://doi.org/10.24381/cds.adbb2d47 — via Open-Meteo.',
     methodology:
-      'For each representative station coordinate, daily 2 m mean air temperature (ERA5) was requested for 1991-01-01 through 2020-12-31. Annual mean = average of all daily means. Growing-season mean = average of daily means where month is April through October (inclusive). Values rounded to 0.1 °C. Same methodology as french-wine-regions / us-wine-regions.',
+      'For each representative station coordinate, daily 2 m mean air temperature (ERA5) was requested for 1991-01-01 through 2020-12-31. Annual mean = average of all daily means. Growing-season mean = Apr–Oct (NH) or Oct–Apr (SH wine regions). Values rounded to 0.1 °C. Same methodology as french-wine-regions / us-wine-regions.',
     regions: results,
   }
 

@@ -55,7 +55,10 @@ export function ComparePanel({ items, unit, onRemove }: Props) {
               <dt>Growing season</dt>
               <dd>
                 {formatTemp(it.climate?.growing_season_mean_c, unit)}
-                <span className="muted"> · Apr–Oct</span>
+                <span className="muted">
+                  {' '}
+                  · {it.climate?.growing_season_months ?? 'Apr–Oct'}
+                </span>
               </dd>
               <dt>Station</dt>
               <dd>{it.climate?.station ?? '—'}</dd>

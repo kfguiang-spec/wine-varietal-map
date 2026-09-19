@@ -51,7 +51,7 @@ Same methodology as [french-wine-regions](https://github.com/kfguiang-spec/frenc
 
 - Daily `temperature_2m_mean` for **1991-01-01 … 2020-12-31**, model `era5`
 - **Annual mean** = mean of all daily means
-- **Growing-season mean** = mean of daily means for months **April–October**
+- **Growing-season mean** = **Apr–Oct** (Northern Hemisphere) or **Oct–Apr** (Southern Hemisphere: Chile, Argentina, Australia, South Africa, New Zealand)
 - Stored in °C in `public/data/climate.json`; UI defaults to °F
 - Representative points for countries (e.g. Bordeaux, Napa, Maipo, Ningxia) and CA regions
 
